@@ -1,0 +1,6 @@
+/*.res
+/Win32/*
+/__*
+/*.local
+/*.identcache
+/*.mes
